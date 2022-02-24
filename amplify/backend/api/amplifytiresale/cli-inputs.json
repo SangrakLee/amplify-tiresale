@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytiresale",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\PROJECTS\\tiresale\\AWS\\amplify\\amplify-tiresale\\amplify\\backend\\api\\amplifytiresale\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
